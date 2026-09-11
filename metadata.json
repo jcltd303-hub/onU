@@ -1,0 +1,6 @@
+{
+  "name": "Denver Demolition Permits Dashboard",
+  "description": "Visualizes Denver demolition permits from the last 90 days with street view imagery, property data, permit history, and interactive FOSS maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
